@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "connoryjewiss@icloud.com",
+    "longName": "Flanders Field",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Flanders Field",
+    "uuid": "108c36cb-4f98-49c7-8d37-dbe0283469a1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
