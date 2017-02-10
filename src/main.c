@@ -38,7 +38,7 @@ static void window_load(Window *window) {
   // Change the font to a nice readable one
   // This is system font; you can inspect pebble_fonts.h for all system fonts
   // or you can take a look at feature_custom_font to add your own font
-  text_layer_set_font(text_layer, fonts_get_system_font(FONT_KEY_GOTHIC_24_BOLD));
+  text_layer_set_font(text_layer, fonts_get_system_font(FONT_KEY_GOTHIC_20_BOLD));
 
   // Trim text layer and scroll content to fit text box
   GSize max_size = text_layer_get_content_size(text_layer);
